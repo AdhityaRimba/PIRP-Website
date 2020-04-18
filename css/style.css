@@ -1,0 +1,58 @@
+body {
+	/*background-color: slateblue;*/
+	background-image: url("../img/bg.jpg");
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width: auto;
+    height: auto;
+}
+
+img[alt="www.000webhost.com"]{
+display : none !important;
+}
+
+.btn:focus, .btn:active, button:focus, button:active {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+#image-gallery .modal-footer{
+  display: block;
+}
+
+.thumb{
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.headtxt {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.txt-atas {
+	font-family: 'Baloo Paaji 2' sans-serif;
+}
+
+.isi-mt {
+	margin-top: 300px;
+}
+
+.bg-purple {
+	background: purple;
+}
+
+hr {
+	border-top: 10px solid purple;
+	border-radius: 5px;
+}
+
+.btn {
+	border-radius: 0px;
+	width: 300px;
+	font-size: 20px;
+}
+
+.desc {
+	font-size: 13px;
+}
