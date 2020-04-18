@@ -1,5 +1,5 @@
 <?php 
-    $conn = mysqli_connect("localhost", "adhhosts_root", "adh1tya@97", "adhhosts_gallery");
+    $conn = mysqli_connect("localhost", "adhhosts_root", "nothin", "adhhosts_gallery");
 
     $query = mysqli_query($conn, "SELECT * FROM image");
 ?>
