@@ -1,5 +1,5 @@
 function playbutton(){
-	location.replace("file/launcher.exe");
+	window.open("https://discord.gg/avJhqQ3")
 }
 
 function rulestab(){

@@ -1,5 +1,5 @@
 <?php 
-    $conn = mysqli_connect("localhost", "adhhosts_root", "nothin", "adhhosts_gallery");
+    $conn = mysqli_connect("localhost", "adhhostt_gallery", "-jRxq5V^}hEp", "adhhostt_gallery");
 
     $query = mysqli_query($conn, "SELECT * FROM image");
 ?>
@@ -10,8 +10,8 @@
     <!-- Meta Tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="Pesona Indonesia Roleplay, Bermain Game Selayaknya Dunia Nyata">
-    <meta name="keywords" content="Roleplay,Indopride,Fivem,Pesona,Indonesia,Vector,Rp,Rl,Real,Life,Game,Games">
+    <meta name="description" content="City Of Indonesia Roleplay, Bermain Game Selayaknya Dunia Nyata">
+    <meta name="keywords" content="Roleplay,Indopride,COI,City,Of,Gta,V,5,Server,Crack,Fivem,Pesona,Indonesia,Vector,Rp,Rl,Real,Life,Game,Games">
     <meta name="author" content="MrAdhit">
 
     <!-- Javascript Lain -->
@@ -26,8 +26,8 @@
     <link href="https://fonts.googleapis.com/css2?family=Baloo+Paaji+2&display=swap" rel="stylesheet">
 
     <!-- Property Lain -->
-    <title>PIRP Official Site</title>
-    <link rel="icon" href="img/icon.png">
+    <title>COI Official Site</title>
+    <link rel="icon" href="img/icon.jpeg">
   </head>
   <body>
     <div class="container">
@@ -72,7 +72,7 @@
                             </div>
                             <div class="row">
                                 <div class="col-md">
-                                    <h1 class="text-warning">PESONA INDONESIA <br>ROLEPLAY</h1>
+                                    <h1 class="text-danger">CITY OF INDONESIA <br>ROLEPLAY</h1>
                                 </div>
                             </div>
                         </div>
@@ -181,6 +181,25 @@
                                 <br><br>
                                 6. Delay Perampokan, Adalah 35 Menit, Kurang Dari Itu Akan Dibuat Fail Rp !
                                 <br><br>
+                                7. PEMBEGALAN PERAMPOK <br>
+                                Jika perampok memenangkan robbery, player bisa membegal dan merampas loadout perampok, dan uang yang didapat perampok bisa diambil seluruhnya
+                                <br><br>
+                                8. HELIKOPTER POLISI <br>
+                                Jika perampokan bank ada helikopter pilot dilarang di kill, jika ketahuan pilot di kill maka akan dikenakan warn 1
+                                <br><br>
+                                9. MEMINTA TEBUSAN <br>
+                                [+] Meminta Tebusan Uang : Jika perampok meminta tebusan kepada polisi, maksimal penjahat meminta $250,000 ( KHUSUS BANK ) dan jika tebusan di lojas maksimal $50,000 ( KHUSUS LOJAS, DAN YELLOW JACK )
+                            <br>[+] Meminta Tebusan Kendaraan : Jika perampok meminta kendaraan kepada polisi, kendaraan yg boleh diminta hanya mobil untuk perampokan lojas dan helikopter untuk perampokan bank
+                                <br><br>
+                                10. SANDERA <br>
+                                APABILA ADA SANDERA, PERAMPOK BISA MELARIKAN DIRI DENGAN MELEPAS SANDERA, DAN POLISI BERHAK MENEMBAK BAN MOBIL TERSANGKA MENGGUNAKAN TASER JIKA PARA PERAMPOK TIDAK ADA YANG MAU BERHENTI
+                                <br><br>
+                                LAMA WAKTU PENJARA <br>
+                                LOJAS = 15 Menit    <br>
+                                BANK KECIL = 20 MENIT <br>
+                                BANK BESAR = 25 MENIT <br>
+                                <b>APABILA PELAKU TIDAK KOPERATIF, AKAN DITAMBAH 1 MENIT</b>
+                                <br><br>
                             </div>
                         </div>
                         <hr>
@@ -220,6 +239,9 @@
                                   [+] Toko Lojas <br><br>
 
                                 Hukuman : Jika ada kedapatan yang berbuat rusuh secara tidak RP, maka akan dikenakan hukuman Jail OOC 35 Menit dan apabila masih melakukan, mau tidak mau akan dikenakan banned permanent!.<br><br>
+                                4. WARZONE <br>
+                                [-] SEANDAINYA ORANG TERLIBAT PEPERANGAN, JIKA PERGI KE ZONA HIJAU OTOMATIS ZONA HIJAU BERUBAH ZONA MERAH
+                                <br><br>
                             </div>
                         </div>
                         <hr>
@@ -241,8 +263,10 @@
                                 Apabila EMS/PMI sedang tidak ada dikota, Fraksi bisa melakukan tindak kriminal, tapi tidak bisa melakukan Pembunuhan terhadap warga, Perang, Dan Perampokan, Fraksi hanya bisa melakukan pembegalan yang tidak boleh memakan korban jiwa, dikarenakan EMS/PMI tidak ada dikota !<br><br>
                                 5. Persenjataan <br>
                                 Fraksi tidak disediakan membeli senjata di dalam kantor, dan harus mencari senjata di tempat penjualan senjata ilegal, dikarenakan apabila fraksi bisa membeli senjata di dalam kantor, Persenjataan ilegal bisa tidak akan berjalan lancar <br><br>
-                                6. Ladang Ganja, dan lain lain <br>
-                                Apabila para Fraksi ingin berladang minimal harus ada 2 polisi di kota ! apabila ketahuan ngeladang pas polisi tidak ada dikota, maka akan dikenakan hukuman berupa JAIL OOC 25 Menit !
+                                6. Ladang Ganja, dan lain lain <br><br>
+                                Apabila para Fraksi ingin berladang minimal harus ada 2 polisi di kota ! apabila ketahuan ngeladang pas polisi tidak ada dikota, maka akan dikenakan hukuman berupa JAIL OOC 25 Menit ! <br><br>
+                                7. Perekrutan Anggota
+                                Perekrutan anggota tidak melalu Discord, melainkan melalui IC setiap Fraksi harus mencari orang dan mengajak menjadi Fraksi tersebut <br>
                             </div>
                         </div>
                     </div>
